@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://1locosd-sys.github.io/sitemap.xml
